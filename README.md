@@ -33,3 +33,10 @@ And when we're in this folder, we have to use following command to compose a doc
 ```
 docker compose up --build
 ```
+
+## API Documentation📃
+To see an API Documentation, we firstly have to have an app running. After that we simply have to open any of these urls:
+
+`http://localhost:8000/swagger/`<br />
+*or*<br />
+`http://localhost:8000/redoc/`
